@@ -1,0 +1,783 @@
+pixel_name,Device,Hour,Users
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,0,19
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,1,3
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,2,2
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,3,5
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,4,10
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,5,25
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,6,74
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,7,152
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,8,213
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,9,225
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,10,215
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,11,198
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,12,223
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,13,216
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,14,205
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,15,195
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,16,192
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,17,193
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,18,201
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,19,250
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,20,239
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,21,199
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,22,99
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Desktop,23,37
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,0,42
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,1,19
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,2,13
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,3,22
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,4,29
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,5,115
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,6,241
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,7,263
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,8,297
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,9,194
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,10,205
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,11,199
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,12,224
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,13,197
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,14,221
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,15,262
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,16,379
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,17,395
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,18,447
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,19,580
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,20,631
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,21,553
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,22,340
+#ADV#Sky Ride#Sports#Cycling#UK#CP#,Mobile,23,115
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,0,144
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,1,89
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,2,80
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,3,69
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,4,98
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,5,185
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,6,348
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,7,787
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,8,"1,004"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,9,"1,054"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,10,"1,036"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,11,"1,053"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,12,"1,097"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,13,"1,099"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,14,"1,122"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,15,"1,057"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,16,863
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,17,784
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,18,758
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,19,812
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,20,881
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,21,732
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,22,428
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Desktop,23,205
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,0,258
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,1,97
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,2,93
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,3,109
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,4,208
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,5,551
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,6,957
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,7,"1,193"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,8,"1,114"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,9,793
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,10,746
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,11,808
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,12,813
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,13,848
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,14,856
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,15,967
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,16,"1,239"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,17,"1,504"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,18,"1,619"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,19,"1,852"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,20,"1,972"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,21,"1,858"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,22,"1,092"
+#ADV#Sky Ride#Sports#Cycling#UK#HP#,Mobile,23,513
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,0,879
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,1,511
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,2,304
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,3,271
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,4,241
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,5,444
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,6,870
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,7,"1,695"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,8,"2,620"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,9,"3,235"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,10,"3,608"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,11,"3,915"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,12,"4,074"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,13,"4,125"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,14,"3,997"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,15,"4,409"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,16,"4,244"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,17,"4,532"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,18,"5,198"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,19,"5,754"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,20,"5,543"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,21,"4,322"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,22,"2,465"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Desktop,23,"1,245"
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,0,18
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,1,19
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,2,7
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,3,9
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,4,14
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,5,29
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,6,40
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,7,59
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,8,99
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,9,81
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,10,96
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,11,117
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,12,97
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,13,116
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,14,144
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,15,152
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,16,154
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,17,202
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,18,223
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,19,234
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,20,202
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,21,194
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,22,109
+#ADV#Sky#Entertainment##UK#HP#Now TV Box,Mobile,23,40
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,0,"20,450"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,1,"10,704"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,2,"6,669"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,3,"4,126"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,4,"4,162"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,5,"7,121"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,6,"12,123"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,7,"18,859"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,8,"25,780"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,9,"28,662"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,10,"30,368"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,11,"34,884"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,12,"35,918"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,13,"34,085"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,14,"35,742"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,15,"40,992"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,16,"49,525"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,17,"63,722"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,18,"82,621"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,19,"106,498"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,20,"117,255"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,21,"102,318"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,22,"58,974"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Desktop,23,"31,297"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,0,"3,326"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,1,"1,945"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,2,"1,211"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,3,934
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,4,"1,171"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,5,"2,648"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,6,"5,092"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,7,"7,171"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,8,"8,193"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,9,"7,903"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,10,"7,952"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,11,"8,602"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,12,"9,199"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,13,"9,593"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,14,"10,803"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,15,"12,408"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,16,"14,409"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,17,"17,202"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,18,"20,880"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,19,"23,755"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,20,"24,369"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,21,"20,844"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,22,"12,362"
+#ADV#Sky#Entertainment##UK#HP#Now TV Entertainment,Mobile,23,"6,231"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,0,"27,869"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,1,"13,967"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,2,"8,448"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,3,"5,469"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,4,"5,529"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,5,"10,090"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,6,"18,962"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,7,"32,299"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,8,"46,271"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,9,"51,821"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,10,"56,612"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,11,"64,906"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,12,"66,355"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,13,"66,561"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,14,"68,922"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,15,"76,074"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,16,"86,899"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,17,"107,623"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,18,"142,896"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,19,"169,150"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,20,"173,498"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,21,"147,229"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,22,"83,097"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Desktop,23,"43,791"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,0,245
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,1,165
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,2,128
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,3,86
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,4,117
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,5,188
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,6,369
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,7,559
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,8,699
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,9,712
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,10,830
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,11,869
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,12,886
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,13,954
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,14,992
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,15,"1,169"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,16,"1,260"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,17,"1,551"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,18,"1,884"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,19,"2,011"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,20,"1,778"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,21,"1,490"
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,22,881
+#ADV#Sky#Entertainment##UK#HP#Now TV HP,Mobile,23,466
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,0,"11,292"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,1,"6,653"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,2,"4,750"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,3,"3,468"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,4,"3,375"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,5,"4,372"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,6,"6,552"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,7,"9,603"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,8,"12,945"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,9,"14,500"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,10,"16,511"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,11,"18,162"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,12,"19,786"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,13,"20,272"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,14,"21,703"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,15,"24,274"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,16,"28,821"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,17,"35,979"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,18,"47,224"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,19,"56,016"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,20,"57,847"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,21,"50,779"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,22,"32,554"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Desktop,23,"18,392"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,0,"3,006"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,1,"1,846"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,2,"1,254"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,3,972
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,4,"1,265"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,5,"2,560"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,6,"4,692"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,7,"5,804"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,8,"6,895"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,9,"6,896"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,10,"7,344"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,11,"7,784"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,12,"8,137"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,13,"8,379"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,14,"8,893"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,15,"10,157"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,16,"11,802"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,17,"14,533"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,18,"16,766"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,19,"17,579"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,20,"16,515"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,21,"13,600"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,22,"8,399"
+#ADV#Sky#Entertainment##UK#HP#Now TV Movies,Mobile,23,"5,399"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,0,"1,145"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,1,782
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,2,608
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,3,596
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,4,709
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,5,"1,419"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,6,"2,717"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,7,"5,149"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,8,"7,979"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,9,"10,104"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,10,"13,015"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,11,"16,411"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,12,"15,460"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,13,"19,008"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,14,"19,141"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,15,"17,858"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,16,"16,749"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,17,"17,295"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,18,"28,977"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,19,"21,319"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,20,"11,553"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,21,"6,556"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,22,"3,294"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Desktop,23,"2,039"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,0,"1,752"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,1,"1,032"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,2,878
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,3,836
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,4,"1,473"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,5,"3,221"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,6,"6,004"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,7,"8,132"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,8,"9,757"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,9,"9,775"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,10,"10,703"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,11,"12,593"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,12,"12,637"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,13,"14,332"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,14,"14,207"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,15,"14,625"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,16,"15,253"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,17,"17,446"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,18,"23,102"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,19,"17,691"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,20,"11,216"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,21,"8,756"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,22,"5,021"
+#ADV#Sky#Entertainment##UK#HP#Now TV Sport,Mobile,23,"3,189"
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Desktop,3,1
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Desktop,11,4
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Desktop,14,2
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Desktop,15,4
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Desktop,17,2
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Desktop,20,1
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,4,2
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,6,1
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,10,1
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,13,1
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,15,2
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,19,1
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,20,2
+#ADV#Sky#Technology&Computing#Telecommunication#UK#LP#MySky-IAF-Overview,Mobile,22,1
+#ADV#SKY#Technology&Computing#Telecommunication#UK#LP#Shop_UnConditional,Mobile,17,1
+#ADV#Sky#Telecoms#UK#CP#,Desktop,11,1
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,0,7
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,1,3
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,2,13
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,4,15
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,5,2
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,6,13
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,7,53
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,8,59
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,9,64
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,10,63
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,11,76
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,12,83
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,13,73
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,14,80
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,15,78
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,16,77
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,17,77
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,18,86
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,19,78
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,20,77
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,21,58
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,22,24
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Desktop,23,5
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,0,16
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,1,6
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,2,3
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,3,4
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,4,2
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,5,10
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,6,21
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,7,25
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,8,48
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,9,40
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,10,43
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,11,53
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,12,54
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,13,61
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,14,49
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,15,61
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,16,71
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,17,79
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,18,102
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,19,125
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,20,92
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,21,73
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,22,41
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_box,Mobile,23,18
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,0,469
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,1,181
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,2,204
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,3,51
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,4,156
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,5,54
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,6,170
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,7,415
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,8,608
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,9,743
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,10,913
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,11,"1,032"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,12,"1,139"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,13,"1,247"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,14,"1,284"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,15,"1,522"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,16,"1,923"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,17,"2,320"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,18,"2,876"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,19,"3,287"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,20,"3,113"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,21,"2,284"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,22,"1,138"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Desktop,23,629
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,0,432
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,1,189
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,2,110
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,3,57
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,4,60
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,5,144
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,6,309
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,7,507
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,8,782
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,9,925
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,10,"1,046"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,11,"1,207"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,12,"1,388"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,13,"1,568"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,14,"1,697"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,15,"2,192"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,16,"2,651"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,17,"3,238"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,18,"3,905"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,19,"4,334"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,20,"4,079"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,21,"2,965"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,22,"1,485"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_entertainment,Mobile,23,728
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,0,163
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,1,92
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,2,101
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,3,30
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,4,85
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,5,34
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,6,93
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,7,206
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,8,258
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,9,371
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,10,415
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,11,485
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,12,560
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,13,640
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,14,711
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,15,777
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,16,954
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,17,"1,141"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,18,"1,341"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,19,"1,531"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,20,"1,355"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,21,979
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,22,555
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Desktop,23,273
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,0,365
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,1,207
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,2,115
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,3,59
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,4,60
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,5,94
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,6,211
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,7,389
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,8,551
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,9,706
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,10,903
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,11,"1,029"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,12,"1,170"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,13,"1,332"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,14,"1,388"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,15,"1,693"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,16,"2,027"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,17,"2,431"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,18,"2,971"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,19,"3,281"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,20,"3,004"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,21,"2,339"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,22,"1,353"
+ADV_Sky_Entertainment_UK_CP_Now TV _CP_movies,Mobile,23,707
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,0,34
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,1,36
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,2,12
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,3,27
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,4,32
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,5,44
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,6,89
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,7,223
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,8,447
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,9,599
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,10,675
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,11,751
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,12,749
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,13,783
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,14,680
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,15,694
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,16,670
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,17,648
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,18,696
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,19,726
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,20,632
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,21,494
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,22,223
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Desktop,23,96
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,0,74
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,1,32
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,2,17
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,3,15
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,4,30
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,5,71
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,6,158
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,7,261
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,8,416
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,9,504
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,10,510
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,11,523
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,12,525
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,13,485
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,14,532
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,15,537
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,16,631
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,17,626
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,18,748
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,19,741
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,20,744
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,21,590
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,22,270
+ADV_Sky_Sky Broadband_Entertainment_UK_CP,Mobile,23,132
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,0,291
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,1,160
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,2,91
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,3,72
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,4,90
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,5,185
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,6,398
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,7,679
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,8,914
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,9,"1,163"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,10,"1,419"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,11,"1,660"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,12,"1,723"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,13,"1,811"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,14,"1,951"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,15,"2,044"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,16,"2,113"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,17,"2,350"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,18,"3,495"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,19,"3,970"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,20,"3,354"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,21,"2,385"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,22,"1,168"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Desktop,23,526
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,0,211
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,1,117
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,2,86
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,3,59
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,4,109
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,5,216
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,6,394
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,7,593
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,8,697
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,9,763
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,10,771
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,11,896
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,12,931
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,13,"1,007"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,14,"1,045"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,15,"1,226"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,16,"1,427"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,17,"1,656"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,18,"2,001"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,19,"2,322"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,20,"2,331"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,21,"1,846"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,22,"1,045"
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go,Mobile,23,418
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,0,1
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,1,17
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,3,6
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,4,17
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,5,6
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,6,17
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,7,4
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,8,6
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,9,5
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,10,12
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,11,2
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,12,3
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,13,15
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,14,14
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,15,3
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,16,5
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,17,6
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,18,8
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,19,5
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,20,10
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,21,7
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,22,2
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Desktop,23,1
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,0,28
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,1,13
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,2,9
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,3,7
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,4,12
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,5,37
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,6,95
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,7,182
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,8,235
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,9,282
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,10,278
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,11,306
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,12,310
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,13,319
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,14,289
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,15,321
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,16,323
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,17,338
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,18,436
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,19,367
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,20,328
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,21,268
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,22,168
+ADV_Sky_Sky Broadband_Entertainment_UK_CP_Sky Go MOBILE,Mobile,23,69
+ADV_Sky_Sky Broadband_Entertainment_UK_LP_Sky Go,Desktop,7,1
+ADV_Sky_Sky Broadband_Entertainment_UK_LP_Sky Go,Mobile,9,1
+ADV_Sky_Sky Broadband_Entertainment_UK_LP_Sky Go,Mobile,19,1
+ADV_Sky_Sky Fibre Optics_Entertainment_UK_CP,Desktop,11,1
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,0,8
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,1,3
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,2,3
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,5,8
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,6,59
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,7,111
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,8,152
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,9,203
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,10,196
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,11,244
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,12,195
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,13,214
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,14,192
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,15,168
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,16,183
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,17,160
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,18,176
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,19,136
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,20,118
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,21,75
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,22,37
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Desktop,23,12
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,0,1
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,1,5
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,4,7
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,5,14
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,6,21
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,7,47
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,8,80
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,9,68
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,10,89
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,11,107
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,12,94
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,13,99
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,14,96
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,15,93
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,16,103
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,17,112
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,18,115
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,19,108
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,20,77
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,21,73
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,22,29
+ADV_Sky_Sky Sport_Entertainment_UK_CP,Mobile,23,10
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,0,291
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,1,159
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,2,92
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,3,73
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,4,91
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,5,184
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,6,403
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,7,676
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,8,918
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,9,"1,170"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,10,"1,422"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,11,"1,666"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,12,"1,733"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,13,"1,828"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,14,"1,955"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,15,"2,049"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,16,"2,133"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,17,"2,361"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,18,"3,517"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,19,"3,990"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,20,"3,367"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,21,"2,406"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,22,"1,178"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Desktop,23,536
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,0,214
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,1,119
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,2,89
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,3,61
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,4,108
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,5,220
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,6,401
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,7,598
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,8,697
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,9,775
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,10,787
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,11,905
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,12,945
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,13,"1,022"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,14,"1,055"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,15,"1,241"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,16,"1,439"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,17,"1,667"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,18,"2,021"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,19,"2,332"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,20,"2,360"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,21,"1,867"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,22,"1,055"
+ADV_Sky_Sky Sport_Entertainment_UK_CP MOBILE,Mobile,23,424
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,0,22
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,1,27
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,2,7
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,3,20
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,4,30
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,5,23
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,6,78
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,7,135
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,8,243
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,9,325
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,10,425
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,11,420
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,12,405
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,13,397
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,14,385
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,15,401
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,16,398
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,17,404
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,18,425
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,19,470
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,20,420
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,21,350
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,22,160
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Desktop,23,59
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,0,57
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,1,35
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,2,12
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,3,16
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,4,23
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,5,54
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,6,145
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,7,210
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,8,330
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,9,359
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,10,390
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,11,366
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,12,380
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,13,387
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,14,392
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,15,410
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,16,493
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,17,560
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,18,612
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,19,697
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,20,670
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,21,490
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,22,270
+ADV_Sky_Sky Sport_Entertainment_UK_CP_Game of Thrones,Mobile,23,131

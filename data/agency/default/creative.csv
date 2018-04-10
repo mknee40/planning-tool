@@ -1,0 +1,44 @@
+CPA,Desktop,Standard,2.25,160x600
+CPA,Desktop,Standard,2.25,300x250
+CPA,Desktop,Standard,2.25,728x90
+CPA,Desktop,Expandable,3.3,Expandable
+CPA,Desktop,Double MPU,8.8,300x600
+CPA,Desktop,Billboard,16.5,970x250
+CPA,Desktop,Preroll < 30 sec,16.6,"Pre roll under 30"""
+CPA,Desktop,Preroll 30-60 sec,17.9,"Pre roll 30 - 60"""
+CPA,Desktop,Preroll > 60 sec,19.3,"Pre roll over 60"""
+CPA,Desktop,VPAID,20.7,Pre roll VPAID
+CTR,Desktop,Standard,1.9,160x600
+CTR,Desktop,Standard,1.9,300x250
+CTR,Desktop,Standard,1.9,728x90
+CTR,Desktop,Expandable,2.8,Expandable
+CTR,Desktop,Double MPU,7.5,300x600
+CTR,Desktop,Billboard,14.1,970x250
+CTR,Mobile In App,Standard,2.2,160x600
+CTR,Mobile In App,Standard,2.2,300x250
+CTR,Mobile In App,Standard,2.2,728x90
+CTR,Mobile In App,Expandable,5.5,Expandables
+CTR,Mobile In App,Double MPU,10,300x600
+CTR,Mobile In App,Interstitial,10,Interstitials
+CTR,Mobile In App,Preroll,20,Pre roll Mobile
+CTR,Tablet In App,Standard,3.4,160x600
+CTR,Tablet In App,Standard,3.4,300x250
+CTR,Tablet In App,Standard,3.4,728x90
+CTR,Tablet In App,Expandable,7,Expandables
+CTR,Tablet In App,Double MPU,11,300x600
+CTR,Tablet In App,Interstitial,13.2,Interstitials
+CTR,Tablet In App,Preroll,25,Pre roll Mobile
+CTR,Mobile Web,Standard,2.4,160x600
+CTR,Mobile Web,Standard,2.4,300x250
+CTR,Mobile Web,Standard,2.4,728x90
+CTR,Mobile Web,Expandable,4.9,Expandables
+CTR,Mobile Web,Double MPU,7.7,300x600
+CTR,Mobile Web,Interstitial,9.25,Interstitials
+CTR,Mobile Web,Preroll,17.5,Pre roll Mobile
+CTR,Tablet Web,Standard,2.4,160x600
+CTR,Tablet Web,Standard,2.4,300x250
+CTR,Tablet Web,Standard,2.4,728x90
+CTR,Tablet Web,Expandable,4.9,Expandables
+CTR,Tablet Web,Double MPU,7.7,300x600
+CTR,Tablet Web,Interstitial,9.25,Interstitials
+CTR,Tablet Web,Preroll,17.5,Pre roll Mobile

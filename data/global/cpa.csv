@@ -1,0 +1,382 @@
+Ad Category,Strategy Type,% of Total Impressions,CTR,Conversions,Strategy Name,Funnel,Description
+Auto,BESPOKE,1.73%,0.05%,"1,264",OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Auto,CICKER,0.03%,0.08%,8,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Auto,CLICKER,0.02%,0.01%,40,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Auto,CLICKERS,0.00%,322.67%,0,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Auto,COMSCORE,3.92%,0.03%,"1,770",DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Auto,CONVERTER,0.15%,0.05%,"1,288",CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Auto,CONVERTERS,0.33%,0.08%,"4,914",CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Auto,DOMAIN,5.37%,0.02%,796,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Auto,FOLD,4.77%,0.03%,"2,422",VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Auto,IPEXP,1.24%,0.02%,94,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Auto,KW,0.05%,0.01%,14,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Auto,LOOKALIKE,0.04%,0.01%,0,LOOKALIKE,Mid Funnel,Target new people who behave like current customers
+Auto,NETWORK,23.00%,0.03%,"2,468",REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Auto,OG,13.49%,0.01%,"13,404",OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Auto,OT,0.14%,0.01%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Auto,PDA,0.02%,0.00%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Auto,PO.ST,0.00%,0.00%,1,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Auto,POST,0.06%,0.07%,31,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Auto,POSTURL,0.00%,0.00%,0,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Auto,R1 INTENT,0.07%,0.01%,4,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Auto,R1CONTENT,4.99%,0.02%,766,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Auto,R1CONTENTE,0.03%,0.01%,17,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Auto,R1INTENT,0.14%,0.01%,10,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Auto,RAWCAT,0.05%,0.02%,1,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Auto,RM,8.03%,0.06%,"14,934",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Auto,RMFILTER,5.74%,0.03%,583,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Auto,RON,3.66%,0.07%,71,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Auto,SEARCH,0.01%,0.00%,2,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Auto,SHAREGRAPH,0.01%,0.08%,24,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Auto,SUBDOMAIN,0.43%,0.02%,47,SUBDOMAIN,Mid Funnel,Targeting a bespoke whitelist of sub-domains
+Auto,URL,0.80%,0.03%,223,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Auto,USERVIEWED,0.17%,0.01%,36,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Auto,VDOMAIN,11.56%,0.09%,"12,703",VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Auto,VIEWABLE,9.97%,0.07%,"14,564",VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Business,BESPKE,0.05%,0.02%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Business,BESPOKE,5.14%,1.89%,5,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Business,CAT,0.37%,0.03%,1,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Business,DEAL,2.95%,0.01%,597,PMP,Upper Funnel,"Targeting private market places, relevant to your campaign"
+Business,DOMAIN,2.82%,0.01%,13,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Business,NETWORK,31.87%,0.01%,217,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Business,OG,0.62%,0.01%,38,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Business,OT,0.23%,0.02%,2,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Business,PO.ST,0.60%,0.01%,0,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Business,POST,2.62%,0.03%,704,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Business,R1 CONTENT,0.00%,0.00%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Business,R1 INTENT,0.10%,0.01%,4,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Business,R1CONTENT,18.69%,0.02%,"1,705",R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Business,RAWCAT,0.29%,0.02%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Business,RM,1.48%,0.03%,473,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Business,RON,31.78%,0.39%,7,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Business,URL,0.39%,0.00%,1,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Education,APP,0.37%,0.09%,0,APP LIST,Upper Funnel,Targeting a brand safe whitelist of mobile apps
+Education,DOMAIN,36.38%,0.09%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Education,NETWORK,50.75%,0.16%,0,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Education,OG,12.20%,0.01%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Education,RM,0.01%,0.00%,0,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Education,URL,0.29%,0.10%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Entertainment,+1CITIES,0.62%,0.06%,636,R1BIDDER,Upper Funnel,Algorithmic buying strategy.
+Entertainment,+1MIXED,0.53%,0.05%,533,R1BIDDER,Upper Funnel,Algorithmic buying strategy.
+Entertainment,+1TOD,0.46%,0.05%,527,R1BIDDER,Upper Funnel,Algorithmic buying strategy.
+Entertainment,ATF,0.30%,0.02%,0,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Entertainment,BESPOKE,2.50%,0.02%,811,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Entertainment,CAT,0.09%,0.02%,3,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Entertainment,CLICKER,0.13%,0.07%,8,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Entertainment,CLICKERS,0.03%,0.12%,44,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Entertainment,COMSCORE,0.08%,0.03%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Entertainment,CONTENT,2.95%,0.03%,"6,443",R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Entertainment,CONVERTER,0.29%,0.02%,379,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Entertainment,DEAL,0.24%,0.01%,3,PMP,Upper Funnel,"Targeting private market places, relevant to your campaign"
+Entertainment,DOMAIN,3.73%,0.03%,151,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Entertainment,FOLD,2.89%,0.04%,158,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Entertainment,IP,0.51%,0.04%,"1,501",AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Entertainment,IPEXP,0.06%,0.03%,0,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Entertainment,KEYWORD,0.01%,0.03%,11,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Entertainment,KW,0.16%,0.03%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Entertainment,LIST,1.89%,0.12%,"3,351",DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Entertainment,LOOKALIKE,0.04%,0.03%,97,LOOKALIKE,Mid Funnel,Target new people who behave like current customers
+Entertainment,NETWORK,25.90%,0.03%,"6,190",REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Entertainment,OG,3.92%,0.03%,937,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Entertainment,OT,4.03%,0.03%,"29,227",OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Entertainment,OVERLAP,0.14%,0.02%,1,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Entertainment,PAI,0.03%,0.02%,4,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Entertainment,PMP,0.00%,0.00%,0,DEAL,Upper Funnel,Targeting a specific Deal ID
+Entertainment,PO.ST,3.29%,0.01%,"26,909",PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Entertainment,POST,2.46%,0.03%,"2,431",PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Entertainment,R1 INTENT,0.02%,0.03%,2,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Entertainment,R1CONTENT,1.73%,0.02%,64,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Entertainment,R1INTENT,0.59%,0.04%,4,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Entertainment,RAWCAT,0.04%,0.02%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Entertainment,REPOST,0.10%,0.03%,0,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Entertainment,RM,6.53%,0.06%,"60,576",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Entertainment,RMFILTER,0.01%,0.02%,0,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Entertainment,RON,22.14%,0.03%,"2,548",REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Entertainment,RT,0.20%,0.03%,489,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Entertainment,SEARCH,0.08%,0.03%,71,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Entertainment,SG,0.00%,0.00%,0,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Entertainment,SHAREGRAPH,0.11%,0.01%,210,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Entertainment,SITE,0.88%,0.00%,780,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Entertainment,URL,3.96%,0.02%,507,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Entertainment,USERVIEWED,0.00%,0.00%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Entertainment,VDOMAIN,0.14%,0.10%,0,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Entertainment,VIEWABILITY,0.85%,0.06%,1,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Entertainment,VIEWABLE,5.32%,0.06%,"11,520",VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Fashion,DOMAIN,1.13%,0.01%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Fashion,NETWORK,43.62%,0.02%,4,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Fashion,OG,15.52%,0.01%,2,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Fashion,POST,32.28%,0.06%,252,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Fashion,RM,7.44%,0.02%,167,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Finance,BESPOKE,9.64%,0.02%,465,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Finance,CLICKER,0.01%,0.10%,0,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Finance,CONTENT,0.88%,0.02%,41,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Finance,CONVERTER,0.03%,0.03%,345,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Finance,DARKSOCIAL,0.00%,0.09%,3,DARKSOCIAL,Low Funnel,Targeting users that share or engage with specific content
+Finance,DOMAIN,0.80%,0.03%,15,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Finance,DT,0.19%,0.02%,8,DECISION TREE,Upper Funnel,"RadiumOne’s engineering teams will create bespoke strategies based on best performing strategies like time of day, day of week, city, browser type etc."
+Finance,IP,0.08%,0.01%,9,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Finance,IPEXP,1.59%,0.02%,75,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Finance,KW,0.00%,0.00%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Finance,LIST,0.35%,0.04%,4,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Finance,LOOKALIKE,0.08%,0.07%,0,LOOKALIKE,Mid Funnel,Target new people who behave like current customers
+Finance,NETWORK,16.12%,0.04%,223,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Finance,OG,15.42%,0.02%,253,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Finance,PO.ST,0.27%,0.09%,201,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Finance,POST,3.41%,0.01%,112,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Finance,R1CAT,0.01%,0.04%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Finance,R1CONTENT,0.49%,0.02%,18,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Finance,R1INTENT,0.33%,0.02%,17,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Finance,RAWCAT,0.07%,0.01%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Finance,RAWREQ,0.02%,0.03%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Finance,REPOST,4.07%,0.01%,5,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Finance,RM,5.23%,0.05%,"2,007",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Finance,RON,6.42%,0.02%,158,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Finance,SHAREGRAPH,0.96%,0.01%,21,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Finance,SITE,0.00%,0.14%,1,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Finance,URL,2.02%,0.02%,57,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Finance,VDOMAIN,3.24%,0.08%,86,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Finance,VIEWABLE,28.27%,0.04%,323,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Food & Drink,CLICKER,0.13%,0.08%,0,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Food & Drink,CONTENT,4.74%,0.02%,1,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Food & Drink,CONVERTER,0.00%,0.00%,0,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Food & Drink,DEAL,1.53%,0.03%,0,PMP,Upper Funnel,"Targeting private market places, relevant to your campaign"
+Food & Drink,DOMAIN,2.40%,0.01%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Food & Drink,DOMIAN,0.28%,0.00%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Food & Drink,FOLD,18.15%,0.04%,2,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Food & Drink,INTENT,0.44%,0.01%,0,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Food & Drink,IPEXP,0.50%,0.02%,0,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Food & Drink,NETWORK,26.98%,0.01%,0,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Food & Drink,OT,0.62%,0.03%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Food & Drink,PO.ST,0.31%,0.01%,0,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Food & Drink,RAWREQ,0.85%,0.02%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Food & Drink,REC_DOMAIN,0.38%,0.04%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Food & Drink,RM,0.88%,0.07%,10,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Food & Drink,RON,14.88%,0.05%,0,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Food & Drink,SHAREGRAPH,3.87%,0.02%,0,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Food & Drink,URL,23.07%,0.04%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Health & Fitness,BESPOKE,5.43%,0.07%,"9,717",OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Health & Fitness,CLICKER,0.00%,0.46%,1,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Health & Fitness,CONTENT,0.01%,0.07%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Health & Fitness,CONVERTER,0.27%,0.02%,169,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Health & Fitness,CONVERTERS,0.00%,0.00%,7,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Health & Fitness,DEAL,0.25%,0.01%,45,PMP,Upper Funnel,"Targeting private market places, relevant to your campaign"
+Health & Fitness,DOMAIN,16.40%,0.02%,943,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Health & Fitness,FOLD,6.53%,0.02%,587,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Health & Fitness,IPEXP,0.51%,0.04%,48,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Health & Fitness,KW,0.00%,0.00%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Health & Fitness,LOOKALIKE,0.59%,0.02%,4,LOOKALIKE,Mid Funnel,Target new people who behave like current customers
+Health & Fitness,NETWORK,7.39%,0.03%,512,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Health & Fitness,OG,0.01%,0.04%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Health & Fitness,OT,0.00%,0.15%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Health & Fitness,PAI,0.13%,0.02%,1,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Health & Fitness,PMP,0.03%,0.01%,13,DEAL,Upper Funnel,Targeting a specific Deal ID
+Health & Fitness,PO.ST,0.71%,0.03%,4,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Health & Fitness,POST,26.59%,0.02%,"14,816",PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Health & Fitness,R1 CONTENT,0.06%,0.02%,2,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Health & Fitness,R1 INTENT,0.42%,0.03%,6,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Health & Fitness,R1CONTENT,0.00%,0.02%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Health & Fitness,REPOST,0.09%,0.06%,13,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Health & Fitness,RM,1.13%,0.15%,992,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Health & Fitness,RMFILTER,9.82%,0.02%,"9,089",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Health & Fitness,RON,7.39%,0.04%,"1,092",REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Health & Fitness,SEARCH,0.00%,0.00%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Health & Fitness,SHAREGRAPH,0.02%,0.02%,1,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Health & Fitness,URL,12.96%,0.02%,"1,273",OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Health & Fitness,VDOMAIN,1.22%,0.03%,149,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Health & Fitness,VIEWABLE,2.04%,0.02%,364,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Home & Garden,BESPOKE,9.29%,0.02%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Home & Garden,CONTENT,17.67%,0.03%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Home & Garden,DOMAIN,14.98%,0.05%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Home & Garden,IPEXP,0.12%,0.15%,0,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Home & Garden,LOOKALIKE,4.64%,0.03%,21,LOOKALIKE,Mid Funnel,Target new people who behave like current customers
+Home & Garden,NETWORK,7.69%,0.03%,32,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Home & Garden,OG,7.76%,0.03%,46,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Home & Garden,R1 CONTENT,5.28%,0.03%,33,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Home & Garden,R1 INTENT,0.17%,0.03%,4,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Home & Garden,RM,0.73%,0.09%,57,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Home & Garden,SEARCH,1.10%,0.03%,2,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Home & Garden,SITE,14.49%,0.05%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Home & Garden,URL,0.56%,0.06%,23,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Home & Garden,VIEWABLE,15.51%,0.06%,0,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Law,CONVERTER,0.55%,0.02%,19,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Law,DOMAIN,36.40%,0.05%,364,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Law,FOLD,5.02%,0.02%,4,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Law,NETWORK,22.55%,0.05%,64,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Law,OG,27.45%,0.03%,285,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Law,POST,0.21%,0.07%,0,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Law,REPOST,2.72%,0.09%,69,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Law,RM,4.86%,0.09%,313,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Law,RMFILTER,0.02%,0.11%,1,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Law,SHAREGRAPH,0.22%,0.02%,0,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Mobile,BESPOKE,2.74%,0.03%,39,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Mobile,DOMAIN,7.01%,0.03%,158,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Mobile,FOLD,3.19%,0.02%,21,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Mobile,IPEXP,3.26%,0.01%,108,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Mobile,NETWORK,17.57%,0.03%,945,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Mobile,OG,0.18%,0.02%,1,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Mobile,OVERLAP,1.67%,0.01%,49,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Mobile,POST,11.52%,0.03%,"3,884",PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Mobile,REPOST,0.59%,0.02%,73,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Mobile,RM,0.09%,0.02%,27,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Mobile,RON,9.14%,0.02%,42,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Mobile,SG,13.87%,0.02%,"2,706",SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Mobile,SHAREGRAPH,0.50%,0.01%,6,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Mobile,SITE,2.70%,0.01%,19,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Mobile,URL,3.79%,0.01%,32,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Mobile,VIEWABLE,22.18%,0.02%,117,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Shopping,BESPOKE,4.46%,0.01%,321,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Shopping,DOMAIN,36.27%,0.02%,"1,107",DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Shopping,FOLD,8.94%,0.03%,"1,232",VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Shopping,IP,0.19%,0.03%,"2,201",AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Shopping,IPEXP,4.28%,0.02%,"4,255",AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Shopping,NETWORK,19.99%,0.03%,882,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Shopping,OG,1.20%,0.01%,156,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Shopping,PMP,0.14%,0.04%,0,DEAL,Upper Funnel,Targeting a specific Deal ID
+Shopping,PO.ST,0.05%,0.02%,0,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Shopping,POST,1.29%,0.04%,"6,091",PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Shopping,R1 CONTENT,0.01%,0.11%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Shopping,R1CONTENT,0.00%,0.00%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Shopping,RAWCAT,0.00%,0.00%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Shopping,RM,0.18%,0.17%,549,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Shopping,RMFILTER,0.29%,0.03%,"5,526",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Shopping,RON,5.22%,0.03%,168,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Shopping,SG,0.04%,0.06%,176,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Shopping,SHAREGRAPH,0.03%,0.08%,263,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Shopping,SITE,0.61%,0.02%,1,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Shopping,SOCIODEMO,0.09%,0.01%,29,DEMOGRAPHIC,Upper Funnel,"Targeting a demographic of Age, Gender and Income"
+Shopping,URL,1.86%,0.06%,60,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Shopping,VDOMAIN,0.18%,0.03%,21,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Shopping,VIEWABLE,14.68%,0.03%,146,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Sport,ATF,0.01%,0.01%,0,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Sport,BESPOKE,9.61%,0.05%,220,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Sport,CAT,5.86%,0.02%,135,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Sport,CLICKER,4.05%,0.05%,3,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Sport,CONTENT,0.21%,0.05%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Sport,CONVERTER,0.00%,0.00%,0,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Sport,DARKSOCIAL,0.18%,0.04%,8,DARKSOCIAL,Low Funnel,Targeting users that share or engage with specific content
+Sport,DOMAIN,1.89%,0.04%,2,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Sport,FOLD,4.07%,0.06%,9,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Sport,IP,0.60%,0.04%,2,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Sport,IPEXP,0.44%,0.04%,25,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Sport,KW,0.01%,0.00%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Sport,LOOKALIKE,0.22%,0.08%,11,LOOKALIKE,Mid Funnel,Target new people who behave like current customers
+Sport,NETWORK,28.02%,0.04%,82,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Sport,OG,1.96%,0.03%,32,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Sport,OT,0.27%,0.86%,2,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Sport,PMP,0.03%,0.08%,0,DEAL,Upper Funnel,Targeting a specific Deal ID
+Sport,PO.ST,5.07%,0.05%,658,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Sport,POST,2.91%,0.07%,309,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Sport,POSTURL,0.18%,0.04%,7,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Sport,R1 CONTENT,0.36%,0.03%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Sport,R1CONTENT,2.20%,0.03%,28,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Sport,R1INTENT,0.10%,0.02%,2,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Sport,R1INTENTT,0.01%,0.00%,1,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Sport,RAWCAT,0.03%,0.01%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Sport,RAWREQ,0.11%,0.02%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Sport,RM,3.19%,0.17%,"2,831",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Sport,RMFILTER,0.58%,0.04%,33,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Sport,RON,21.09%,0.03%,107,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Sport,SEARCH,0.01%,0.03%,1,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Sport,SHAREGRAPH,0.02%,0.03%,1,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Sport,SITE,0.00%,0.00%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Sport,URL,0.51%,0.04%,7,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Sport,VIEWABLE,6.20%,0.04%,57,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Technology,BESPOKE,1.40%,0.05%,122,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Technology,CC,0.20%,0.05%,3,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Technology,CONTENT,0.50%,0.01%,63,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Technology,CONVERTER,0.01%,0.02%,8,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Technology,CONVERTERS,0.03%,0.01%,303,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Technology,CONVETER,0.00%,0.09%,5,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Technology,DEAL,0.11%,0.02%,35,PMP,Upper Funnel,"Targeting private market places, relevant to your campaign"
+Technology,DOMAIN,13.62%,0.05%,"1,814",DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Technology,DT,0.05%,0.02%,2,DECISION TREE,Upper Funnel,"RadiumOne’s engineering teams will create bespoke strategies based on best performing strategies like time of day, day of week, city, browser type etc."
+Technology,FOLD,7.20%,0.03%,"3,583",VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Technology,INTENT,0.00%,0.00%,0,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Technology,IPEXP,0.00%,0.01%,0,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Technology,KW,0.06%,0.02%,2,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Technology,NETWORK,23.63%,0.03%,"4,154",REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Technology,OG,4.92%,0.05%,"18,483",OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Technology,OT,0.00%,0.00%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Technology,OVERLAP,0.01%,0.01%,0,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Technology,PMP,0.22%,0.04%,80,DEAL,Upper Funnel,Targeting a specific Deal ID
+Technology,POST,9.84%,0.08%,"9,088",PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Technology,POSTDOMAIN,0.01%,0.01%,6,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Technology,POSTURL,0.02%,0.01%,21,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Technology,R1CONTENT,0.01%,0.01%,4,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Technology,RAWCAT,0.03%,0.01%,2,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Technology,REC_DOMAIN,0.04%,0.02%,1,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Technology,REC_DOMAIN_USER,0.46%,0.01%,679,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Technology,REPOST,0.76%,0.08%,261,PO.ST URL,Mid Funnel,Target users who have clicked on your own Po.st URL links
+Technology,RM,13.01%,0.04%,"16,528",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Technology,RMFILTER,0.03%,0.15%,2,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Technology,RON,11.55%,0.03%,"1,106",REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Technology,SG,0.13%,0.02%,110,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Technology,SHAREGRAPH,0.01%,0.02%,2,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Technology,URL,7.11%,0.03%,406,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Technology,VDOMAIN,0.67%,0.05%,36,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Technology,VIEWABLE,4.34%,0.06%,213,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Travel,APP,0.22%,1.52%,0,APP LIST,Upper Funnel,Targeting a brand safe whitelist of mobile apps
+Travel,BESPOKE,7.20%,0.01%,687,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Travel,CLICKER,0.01%,0.19%,0,CLICKER,Low Funnel,Targeting users who clicked on your campaign to drive further engagement
+Travel,COMSCORE,0.05%,0.02%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Travel,CONTENT,7.46%,0.03%,122,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Travel,CONVERTER,0.00%,0.00%,0,CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Travel,CP,1.99%,0.02%,"4,551",CONVERTER,Low Funnel,Targeting users that converted to drive after sales or repeat business
+Travel,DARKSOCIAL,0.08%,0.14%,32,DARKSOCIAL,Low Funnel,Targeting users that share or engage with specific content
+Travel,DEAL,0.05%,0.01%,0,PMP,Upper Funnel,"Targeting private market places, relevant to your campaign"
+Travel,DOMAIN,6.42%,0.02%,508,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Travel,FOLD,5.24%,0.04%,30,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Travel,IPEXP,0.84%,0.02%,29,AUDIENCE EXP,Mid Funnel,Increase reach through identifying devices that are connected to the same customer IP
+Travel,KEYWORD,0.01%,0.04%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Travel,KW,0.29%,0.01%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Travel,LOOKALIKE,0.97%,0.02%,78,LOOKALIKE,Mid Funnel,Target new people who behave like current customers
+Travel,NETWORK,26.07%,0.07%,127,REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Travel,OG,2.67%,0.03%,129,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Travel,OT,1.13%,0.02%,11,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Travel,PMP,0.17%,0.03%,5,DEAL,Upper Funnel,Targeting a specific Deal ID
+Travel,PO.ST,0.10%,0.03%,22,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Travel,PO.STT,0.18%,0.01%,10,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Travel,POST,0.27%,0.02%,22,PO.ST WIDGET,Mid Funnel,Target users who have engaged with content via your own Po.st widget
+Travel,R1 CONTENT,1.98%,0.01%,237,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Travel,R1 INTENT,0.04%,0.02%,0,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Travel,R1CONTENT,2.93%,0.03%,238,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Travel,R1INTENT,0.00%,0.00%,0,R1INTENT,Mid Funnel,RadiumOne first party data - consumer intent across social sharing
+Travel,RAWCAT,0.00%,0.00%,0,BEHAVIOURAL SIGNAL,Upper Funnel,Target users who demonstrate relevant purchase intent behaviours to your campaign.
+Travel,REC_DOMAIN,0.00%,0.00%,0,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Travel,RM,7.99%,0.03%,"4,877",RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Travel,RMFILTER,0.08%,0.02%,64,RM,Low Funnel,Targeting of remarketing segments with different frequencies & recencies applied
+Travel,RON,7.69%,0.05%,"6,861",REACH,Upper Funnel,"A/B testing across multiple brand safe websites with low frequency capping
+"
+Travel,RR1 CONTENT,0.01%,0.02%,0,R1CONTENT,Upper Funnel,RadiumOne first party data - consumer behaviour page views
+Travel,SEARCH,0.03%,0.02%,0,KEYWORD,Mid Funnel,Target pre-defined lists of search keyword
+Travel,SG,0.32%,0.01%,4,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Travel,SHAREGRAPH,0.38%,0.01%,1,SHAREGRAPH,Mid Funnel,Sharegraph™ - finds the close social connections of your current customers
+Travel,SITE,3.02%,0.02%,159,DOMAIN,Mid Funnel,Target a bespoke whitelist of top performing sites
+Travel,URL,13.13%,0.02%,876,OVERLAP,Mid Funnel,We identify domains that have a high overlap with your current customers content behaviour
+Travel,VIEWABILITY,0.18%,0.03%,7,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
+Travel,VIEWABLE,0.76%,0.04%,3,VIEWABLE,Upper Funnel,Target a whitelist of high viewability websites
